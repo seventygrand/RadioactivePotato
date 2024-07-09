@@ -3,25 +3,24 @@
 [![Profile Visit Count](https://visitcount.itsvg.in/api?id=RadioactivePotato&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![My Discord](https://discord-readme-badge.vercel.app/api?id=1166013268008120340)](https://discordapp.com/users/1166013268008120340)
+[![My Discord](https://discord-readme-badge.vercel.app/api?id=1166013268008120340)](https://discordapp.com/users/1258033419443503124)
 
 ***
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.com)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RadioactivePotato&theme=cobalt" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=seventygrand&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadioactivePotato&theme=cobalt&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seventygrand&theme=cobalt&layout=compact" />
 </a>
 
-![](https://github-readme-streak-stats.herokuapp.com?user=RadioactivePotato&theme=vue-dark)<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=seventygrand&theme=vue-dark)<br/>
 
 ***
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RadioactivePotato&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=seventygrand&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ## 😆 Random Programming humour
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
@@ -30,7 +29,7 @@
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <p align="center">
-<img src="https://github.com/RadioactivePotato/ReadmeFiles/blob/main/radioactive-potato.svg"> <img src="https://github.com/RadioactivePotato/ReadmeFiles/blob/main/potato-incorporated.svg">
+<img src="https://github.com/seventygrand/coolimage/image.png"> <img src="(https://github.com/seventygrand/coolimage/image.png")">
 </p>
 
 <p align="center">
